@@ -1,1 +1,1 @@
-include_recipe maven::default
+include_recipe 'maven::default'
