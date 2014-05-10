@@ -1,1 +1,1 @@
-include_recipe maven::defaultss
+include_recipe maven::default
